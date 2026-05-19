@@ -34,8 +34,4 @@ hugo &amp;ndash;minify&lt;/li&gt;
 &lt;/li&gt;
 &lt;li&gt;等待片刻 刷新网站 &lt;code&gt;https://zozo-website.1784427175.workers.dev&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;添加文件/图片：将图片放入 &lt;code&gt;static/images&lt;/code&gt;,然后文章中用&lt;code&gt;![describe](/images/fname.jpeg)&lt;/code&gt;引用；文件放入 &lt;code&gt;static/files/&lt;/code&gt;，用&lt;code&gt;[download](/files/fname.pdf)&lt;/code&gt;链接&lt;/li&gt;
-&lt;/ol&gt;</description></item><item><title>Test Update</title><link>http://localhost:1313/posts/test-update/</link><pubDate>Tue, 19 May 2026 15:03:16 +0800</pubDate><guid>http://localhost:1313/posts/test-update/</guid><description>&lt;p&gt;这是一篇测试文章，用于验证网站更新是否自动生效。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;测试事件：2026年5月&lt;/li&gt;
-&lt;li&gt;测试目的：确认自动部署&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+&lt;/ol&gt;</description></item></channel></rss>
