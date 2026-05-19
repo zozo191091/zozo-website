@@ -1,0 +1,8 @@
+baseURL: "http://localhost:1313/"
+languageCode: "zh-cn"
+title: "我的个人资料站"
+theme: "PaperMod"
+buildDrafts: false
+params:
+  mainSections:
+    - posts
